@@ -1,0 +1,116 @@
+#title{
+    border: groove;
+    margin-right: 1200px;
+    
+    text-align: center;
+    
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
+
+
+#train {
+    text-align:center
+}
+
+
+.active {
+    background-color: white;
+    color: white;
+    /* text-align: center; */
+    /* display: flex; */
+    float: inline-start;
+    margin-right: 75px;
+   margin-left: 100px;
+}
+
+/* greenText{
+    color: white;
+} */
+
+
+body {
+    font-family: sans-serif;
+    background-color: white;
+    
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    
+    
+  }
+  input,
+  select {
+    width: 200px;
+    padding: 3px 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+  }
+  
+  /* .list { */
+    /* display:flex; */
+   /* float: right; */
+   
+  /* } */
+
+  #reviews {
+    
+    background-color: rgb(45, 3, 130);
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float:right;
+    
+  }
+ 
+  .javaform {
+    background-color: rgb(79, 75, 75);
+    float:right;
+    margin-top: 100px;
+    display: inline;
+    text-align: center;
+  }
+
+  #words {
+    
+  float:inline-end;
+  }
+
+  #computer {
+    position: relative;
+    cursor: pointer;
+    height: 300px;
+    margin-top: 50px;
+    margin-left:500px;
+    
+  }
+
+  .comment {
+   background-color: rgb(245, 245, 247);
+   margin-left: 300px;
+   margin-right: 700px;
+   text-align: center;
+   color: aliceblue;
+    
+  }
+
+  #alumnireview{
+  text-align: center;
+  }
+
+  /* #see{
+ 
+  } */
+
+  #techroles {
+    background-color: rgb(138, 138, 186);
+    text-align: center;
+    /* margin-right: 1100px; */
+    /* color: ; */
+   
+  }
